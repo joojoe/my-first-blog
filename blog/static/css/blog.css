@@ -2,12 +2,15 @@
     background-color: #147193;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 10pt;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
     color: #000000;
     font-size: 36pt;
     text-decoration: none;
+    font-family: 'Pacifico', cursive;
 }
 
 .content {
@@ -15,12 +18,8 @@
     background-color: #f2fdff;
 }
 
-h1 {
-    font-family: 'Futura', 'cursive';
-}
-
 h2, h3, h4 {
-    font-family: 'Lobster', 'cursive';
+    font-family: 'Passion One', cursive;
 }
 
 .date {
@@ -44,6 +43,7 @@ h2, h3, h4 {
 
 .post {
     margin-bottom: 70px;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 
 .post h1 a, .post h1 a:visited {
