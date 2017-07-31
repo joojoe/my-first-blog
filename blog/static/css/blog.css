@@ -1,21 +1,26 @@
 .page-header {
-    background-color: #ff9400;
+    background-color: #147193;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
-    color: #ffffff;
+    color: #000000;
     font-size: 36pt;
     text-decoration: none;
 }
 
 .content {
     margin-left: 40px;
+    background-color: #f2fdff;
 }
 
-h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+h1 {
+    font-family: 'Futura', 'cursive';
+}
+
+h2, h3, h4 {
+    font-family: 'Lobster', 'cursive';
 }
 
 .date {
